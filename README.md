@@ -1,20 +1,20 @@
-#MyProfile
+# MyProfile
 
-###Here is some information about me :
+### Here is some information about me :
 
-###1.I am studying BS Software Engineering
+### 1.I am studying BS Software Engineering
 
-###2.I love coding
+### 2.I love coding
 
-###3.I enjoy problem solving
+### 3.I enjoy problem solving
 
 
-###-My hobbies include :
+### -My hobbies include :
 
- ###-Coding
+ ### -Coding
  
- ###-Playing cricket
+ ### -Playing cricket
  
- ###-Research
+ ### -Research
  
- ###**I am interested**  *to learn new technologies!*
+ ### **I am interested**  *to learn new technologies!*
