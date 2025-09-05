@@ -1,12 +1,12 @@
-#MYPROFILE
+#MYPROFILE\n
 
-Here is some information about me :
-1.I am studying BS Software Engineering
-2.I love coding
-3.I enjoy problem solving
+Here is some information about me :\n
+1.I am studying BS Software Engineering\n
+2.I love coding\n
+3.I enjoy problem solving\n
 
--My hobbies include :
- -Coding 
- -Playing cricket
- -Research
+-My hobbies include :\n
+ -Coding\n
+ -Playing cricket\n
+ -Research\n
  **I am interested**  *to learn new technologies!*
